@@ -63,8 +63,7 @@ $(document).ready(function() {
           },
              email: {
           required:"Please Enter your Email address!."
-          },
-          
+          }, 
         }
       });
  });
